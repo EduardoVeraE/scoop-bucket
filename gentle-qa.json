@@ -1,0 +1,22 @@
+{
+    "version": "1.22.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/EduardoVeraE/gentle-qa/releases/download/v1.22.0/gentle-qa_1.22.0_windows_amd64.zip",
+            "bin": [
+                "gentle-qa.exe"
+            ],
+            "hash": "ef83f063a6e212a9df18d1acdbd26234b5b8283d91867cea050da506b559d8d3"
+        },
+        "arm64": {
+            "url": "https://github.com/EduardoVeraE/gentle-qa/releases/download/v1.22.0/gentle-qa_1.22.0_windows_arm64.zip",
+            "bin": [
+                "gentle-qa.exe"
+            ],
+            "hash": "5857f301bced46892f5c5225787c0272bbcf387a521f7eeebf70a2d2de707c55"
+        }
+    },
+    "homepage": "https://github.com/EduardoVeraE/Gentle-QA",
+    "license": "MIT",
+    "description": "Gentle-QA — One command. Any test. Any framework."
+}
