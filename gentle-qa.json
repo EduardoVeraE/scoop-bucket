@@ -1,19 +1,19 @@
 {
-    "version": "1.25.1",
+    "version": "1.25.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/EduardoVeraE/gentle-qa/releases/download/v1.25.1/gentle-qa_1.25.1_windows_amd64.zip",
+            "url": "https://github.com/EduardoVeraE/gentle-qa/releases/download/v1.25.2/gentle-qa_1.25.2_windows_amd64.zip",
             "bin": [
                 "gentle-qa.exe"
             ],
-            "hash": "4afba6ba4353c958f6905a1112adfc01cae277fa62fe28196a72950bc374fd9f"
+            "hash": "4e410651e107310a5c6ca6a544104754c5dbfcc839d43ffccec2a7a284147405"
         },
         "arm64": {
-            "url": "https://github.com/EduardoVeraE/gentle-qa/releases/download/v1.25.1/gentle-qa_1.25.1_windows_arm64.zip",
+            "url": "https://github.com/EduardoVeraE/gentle-qa/releases/download/v1.25.2/gentle-qa_1.25.2_windows_arm64.zip",
             "bin": [
                 "gentle-qa.exe"
             ],
-            "hash": "b7d65044a328c18612419a83f7ef0006a6d9f85af8f3db8678f3c0aed13ab2dc"
+            "hash": "41f76f75c9b77f8f8a40ae7a703cf7f113e8248a61fc741031d518cfcbab2a79"
         }
     },
     "homepage": "https://github.com/EduardoVeraE/Gentle-QA",
