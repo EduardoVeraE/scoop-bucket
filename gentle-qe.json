@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/EduardoVeraE/gentle-qe/releases/download/v0.1.2/gentle-qe_0.1.2_windows_amd64.zip",
+            "url": "https://github.com/EduardoVeraE/gentle-qe/releases/download/v0.1.3/gentle-qe_0.1.3_windows_amd64.zip",
             "bin": [
                 "gentle-qe.exe"
             ],
-            "hash": "e435fad31f0abe5a6434d118404d0a9601bf19f50f28f6af537e77bacfd8e31e"
+            "hash": "3b50f168065600f21e6191be91c97eb63f07c1925d96bb8d839e8ebfdfa8619e"
         },
         "arm64": {
-            "url": "https://github.com/EduardoVeraE/gentle-qe/releases/download/v0.1.2/gentle-qe_0.1.2_windows_arm64.zip",
+            "url": "https://github.com/EduardoVeraE/gentle-qe/releases/download/v0.1.3/gentle-qe_0.1.3_windows_arm64.zip",
             "bin": [
                 "gentle-qe.exe"
             ],
-            "hash": "497ca39b633b5d3699898fbeb3f4d5f2dcde96508e5b5669de240476fa3fb8e7"
+            "hash": "3fc0a2b2c73d4b393af91f1194db076337af3e5fc59a8ddae133f93debd3b7a8"
         }
     },
     "homepage": "https://github.com/EduardoVeraE/gentle-qe",
