@@ -6,14 +6,14 @@
             "bin": [
                 "gentle-qe.exe"
             ],
-            "hash": "3b50f168065600f21e6191be91c97eb63f07c1925d96bb8d839e8ebfdfa8619e"
+            "hash": "34d66d586874f5b1a7dcd8fcdca3eef9b68f3fed247d42901d8cd3401cf26f2a"
         },
         "arm64": {
             "url": "https://github.com/EduardoVeraE/gentle-qe/releases/download/v0.1.3/gentle-qe_0.1.3_windows_arm64.zip",
             "bin": [
                 "gentle-qe.exe"
             ],
-            "hash": "3fc0a2b2c73d4b393af91f1194db076337af3e5fc59a8ddae133f93debd3b7a8"
+            "hash": "2e281e12ceb5752ef2a1423197c1af8c30c18883516029322c8a38dcf50f52ed"
         }
     },
     "homepage": "https://github.com/EduardoVeraE/gentle-qe",
